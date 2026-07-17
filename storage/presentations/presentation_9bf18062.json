@@ -1,0 +1,853 @@
+{
+    "id": "9bf18062",
+    "title": "Darjeeling: Business & Opportunity in the Hills",
+    "topic": "Darjelling",
+    "subtitle": "A modern business lens on tourism, tea, sustainability, and growth",
+    "theme": "modern",
+    "imageStyle": "professional",
+    "aspect": "16:9",
+    "author": "Shouvik Show",
+    "organization": "",
+    "meta": {
+        "topic": "Darjelling",
+        "title": "",
+        "description": "",
+        "slideCount": 10,
+        "type": "Business",
+        "tone": "Professional",
+        "audience": "Students",
+        "language": "English",
+        "aspect": "16:9",
+        "theme": "modern",
+        "imageStyle": "professional",
+        "author": "Shouvik Show",
+        "organization": "",
+        "autoImages": true
+    },
+    "slides": [
+        {
+            "id": "g93yjcwp",
+            "index": 1,
+            "layout": "title",
+            "title": "Darjeeling at a Glance",
+            "subtitle": "A business lens on tourism, tea, and sustainability",
+            "paragraph": "This session explores how Darjeeling creates value through tourism experiences and the tea value chain\u2014from cultivation to branded markets. We\u2019ll also examine how sustainability and responsible operations support long-term competitiveness.",
+            "bullets": [
+                "Tourism demand driven by heritage, scenery, and seasonal peaks",
+                "Tea value chain links growers, processors, and exporters",
+                "Brand identity turns terroir into premium pricing power",
+                "Sustainability practices protect land, labor, and supply quality",
+                "Go-to-market choices shape brand trust and repeat visits"
+            ],
+            "stats": [
+                {
+                    "value": "10+",
+                    "label": "major tea estates"
+                }
+            ],
+            "quote": {
+                "text": "Branding and stewardship are inseparable in premium tea markets.",
+                "author": "Business case framing"
+            },
+            "comparison": {
+                "left_title": "Tourism lens",
+                "left": [
+                    "Experience quality and service reliability",
+                    "Seasonality impacts forecasting and staffing"
+                ],
+                "right_title": "Tea lens",
+                "right": []
+            },
+            "timeline": [],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Map value",
+                    "text": "Identify stakeholders and revenue points across tourism and tea."
+                },
+                {
+                    "step": "2",
+                    "label": "Analyze positioning",
+                    "text": "Link Darjeeling\u2019s terroir and heritage to brand premiums."
+                },
+                {
+                    "step": "3",
+                    "label": "Stress-test sustainability",
+                    "text": "Evaluate risks to environment, labor, and supply consistency."
+                },
+                {
+                    "step": "4",
+                    "label": "Plan opportunities",
+                    "text": "Propose improvements to strengthen growth and resilience."
+                }
+            ],
+            "takeaways": [
+                "Darjeeling\u2019s advantage comes from connected branding, value chains, and sustainability."
+            ],
+            "notes": "Welcome students to a business-focused look at Darjeeling. We\u2019ll connect tourism and tea as two overlapping value systems that depend on brand credibility and sustainable operations. As you follow the case, think about who benefits, what drives pricing, and where risks could emerge. Leave with a clear framework for analyzing place-based businesses.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_0d3a331b7dc9.jpg",
+            "imagePrompt": "Wide-angle scenic view of Darjeeling, India: rolling tea gardens on misty hills, small tea pluckers in the foreground, a vintage mountain train in the midground, and a clean modern infographic overlay style space for text. Professional, realistic photography look, early morning fog, vibrant green tea leaves, cinematic lighting, high resolution, no readable logos or watermarks.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "bpqf209l",
+            "index": 2,
+            "layout": "full-image",
+            "title": "Darjeeling\u2019s Value Beyond Tea",
+            "subtitle": "Heritage, landscape, culture, and crafts\u2014aligned to real customer needs",
+            "paragraph": "Darjeeling\u2019s value comes from its trusted tea heritage, inspiring mountain tourism, and distinct cultural identity. Together, these assets create authentic, high-quality experiences and products customers actively seek.",
+            "bullets": [
+                "World-renowned tea heritage signals consistent quality",
+                "Scenic routes attract travelers seeking immersive experiences",
+                "Gorkha and local traditions deepen cultural authenticity",
+                "Artisanal goods add unique, giftable character",
+                "All assets reinforce premium, trustworthy branding"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "In Darjeeling, quality tastes like history\u2014and scenery amplifies every sip.",
+                "author": "Local tourism insight"
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [],
+            "process": [],
+            "takeaways": [
+                "Darjeeling wins by pairing heritage products with memorable experiences"
+            ],
+            "notes": "Explain that Darjeeling\u2019s strengths are not single assets\u2014they work together. Tea heritage builds trust, scenery creates emotional experiences, culture adds authenticity, and crafts provide tangible value. Ask students to link each driver to a customer need: quality, authenticity, adventure, and uniqueness.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_f774974e9515.jpg",
+            "imagePrompt": "Full-bleed panoramic photograph of Darjeeling tea gardens on a steep hillside with misty Himalayan mountains in the background, a vintage narrow-gauge railway track in the midground, local cottages and colorful prayer flags near the tea terraces, warm natural light at sunrise, high realism, vibrant yet natural colors, no text, no watermark, composition suitable for a presentation slide",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "7bk6vwch",
+            "index": 3,
+            "layout": "image-overlay",
+            "title": "Darjeeling: From Insights to Action",
+            "subtitle": "How local industries create signals, risks, and opportunities",
+            "paragraph": "Darjeeling\u2019s economy is driven by tea, hospitality, and supporting services that respond quickly to seasonality and demand. Use market signals to spot what\u2019s working, what\u2019s at risk, and where students can contribute.",
+            "bullets": [
+                "Tea supply chain: plucking, processing, and premium branding",
+                "Hospitality thrives on experiences and seasonal visitor flows",
+                "Services link farms, tours, transport, and local retail",
+                "Track signals: price trends, occupancy, and employment shifts",
+                "Assess risks: climate stress, quality consistency, and regulation"
+            ],
+            "stats": [
+                {
+                    "value": "Seasonal peaks",
+                    "label": "visitor and demand pattern"
+                }
+            ],
+            "quote": {
+                "text": "In Darjeeling, every season writes a different business story.",
+                "author": "Local industry insight"
+            },
+            "comparison": {
+                "left_title": "Market Signals",
+                "left": [
+                    "Auction prices and buyer demand",
+                    "Hotel occupancy and booking lead times",
+                    "Tour schedules and transport availability"
+                ],
+                "right_title": "Student Actions",
+                "right": [
+                    "Map value chains and bottlenecks",
+                    "Test ideas with pilots and feedback",
+                    "Plan risk checklists for feasibility"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Step 1",
+                    "text": "Observe tea, hospitality, and service flows"
+                },
+                {
+                    "label": "Step 2",
+                    "text": "Collect signals: prices, bookings, employment"
+                },
+                {
+                    "label": "Step 3",
+                    "text": "Identify risks and prioritize practical ideas"
+                },
+                {
+                    "label": "Step 4",
+                    "text": "Draft action plans students can execute"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Industry lens",
+                    "text": "Choose one value chain: tea, stay, or services."
+                },
+                {
+                    "step": "2",
+                    "label": "Market signals",
+                    "text": "Measure demand, pricing, and capacity each season."
+                },
+                {
+                    "step": "3",
+                    "label": "Risk scan",
+                    "text": "Review climate, quality, skills, and policy constraints."
+                },
+                {
+                    "step": "4",
+                    "label": "Opportunity test",
+                    "text": "Design a small pilot and evaluate results quickly."
+                }
+            ],
+            "takeaways": [
+                "Use data signals to turn understanding into action."
+            ],
+            "notes": "Connect Darjeeling\u2019s tea and hospitality dynamics to real decision-making. Ask students to think beyond \u201cwhat exists\u201d and focus on \u201cwhat changes\u201d across seasons. Close by inviting them to pick an industry link and propose one practical improvement they can test.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_7711aadcd97c.jpg",
+            "imagePrompt": "A professional, cinematic collage-style illustration of Darjeeling: rolling tea gardens on misty hills, a cozy mountain guesthouse with warm lighting, and a bustling service street with local shops and transport. Include subtle overlay icons suggesting charts (price trends), booking graphs (hospitality), and supply chain nodes (tea processing). No text, high realism, soft natural light, cool mist ",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "u6exh9o1",
+            "index": 4,
+            "layout": "text-image",
+            "title": "Darjeeling Tea Value Chain",
+            "subtitle": "From mountain cultivation to global cups",
+            "paragraph": "Darjeeling tea moves through a connected value chain that turns climate, care, and craft into market-ready tea. Each stage affects quality, traceability, and pricing power.",
+            "bullets": [
+                "Cultivation shapes flavor through altitude and soil management",
+                "Plucking timing drives seasonality and leaf character",
+                "Processing converts leaves into distinct liquors and aromas",
+                "Grading standardizes strength, size, and consistency",
+                "Branding differentiates with origin and estate storytelling",
+                "Distribution ensures reliable freshness and dependable supply"
+            ],
+            "stats": [
+                {
+                    "value": "2\u20133 plucking seaso",
+                    "label": "typical harvest waves"
+                }
+            ],
+            "quote": {
+                "text": "In Darjeeling, the cup reflects choices made days earlier.",
+                "author": "Tea industry observation"
+            },
+            "comparison": {
+                "left_title": "Quality Control Focus",
+                "left": [
+                    "Uniform plucking and careful handling",
+                    "Consistent processing parameters",
+                    "Accurate grading and blending"
+                ],
+                "right_title": "Business Impact",
+                "right": [
+                    "Stronger differentiation by season",
+                    "Better customer trust and repeat demand",
+                    "More predictable supply planning"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Planting & Care",
+                    "text": "Cultivation under hillside microclimates"
+                },
+                {
+                    "label": "Harvest",
+                    "text": "Selective plucking by season"
+                },
+                {
+                    "label": "Process",
+                    "text": "Withering, rolling, oxidation, drying"
+                },
+                {
+                    "label": "Grade & Blend",
+                    "text": "Size and quality-based sorting"
+                },
+                {
+                    "label": "Market",
+                    "text": "Branding, packaging, and distribution"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Cultivation",
+                    "text": "Altitude, shade, and soil practices guide leaf potential"
+                },
+                {
+                    "step": "2",
+                    "label": "Plucking",
+                    "text": "Hand plucking captures season-specific flavor notes"
+                },
+                {
+                    "step": "3",
+                    "label": "Processing",
+                    "text": "Roll, oxidize, and dry to build aroma and liquor"
+                },
+                {
+                    "step": "4",
+                    "label": "Grading",
+                    "text": "Classify leaves for strength, size, and consistency"
+                },
+                {
+                    "step": "5",
+                    "label": "Branding",
+                    "text": "Highlight origin, estate, and harvest season identity"
+                },
+                {
+                    "step": "6",
+                    "label": "Distribution",
+                    "text": "Move packaged tea quickly to protect freshness"
+                }
+            ],
+            "takeaways": [
+                "Quality is built early: cultivation and plucking matter most",
+                "Grading and branding turn tea character into value",
+                "Reliable distribution protects taste and customer confidence"
+            ],
+            "notes": "Explain how each stage creates or reduces value. Emphasize that small timing and handling differences affect aroma, color, and customer satisfaction. Connect these choices to business outcomes like differentiation, repeat purchases, and supply reliability.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_ce35152589b3.jpg",
+            "imagePrompt": "A professional, educational infographic style image showing a value chain for Darjeeling tea: terraced tea gardens on mountain slopes, a close-up of hand plucking tea leaves, a tea processing factory with withering/rolling/oxidation cues, leaf grading sorting trays, branded tea packaging with a Darjeeling origin label, and tea shipments on trucks/ships. Use a clean modern layout with six linked pa",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "jk1gm3c7",
+            "index": 5,
+            "layout": "text-image",
+            "title": "What Drives Tourism Demand in Darjeeling",
+            "subtitle": "Design, pricing, and seasonality decisions follow these drivers",
+            "paragraph": "Tourism demand in Darjeeling is shaped by weather, scenic viewpoints, heritage sites, and packaged experiences. Understanding these drivers helps align product features, pricing, and peak/off-peak planning.",
+            "bullets": [
+                "Cool climate boosts summer and off-season hill escapes",
+                "Viewpoints and tea landscapes create premium photo experiences",
+                "Heritage hubs increase repeat visits and cultural depth",
+                "Experience packages raise perceived value and booking intent",
+                "Seasonality planning depends on weather and festivals"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "In Darjeeling, demand follows the weather, the views, and the stories.",
+                "author": "Tourism planning insight"
+            },
+            "comparison": {
+                "left_title": "Driver",
+                "left": [
+                    "Climate comfort",
+                    "Scenic viewpoints",
+                    "Heritage attractions",
+                    "Experience packages"
+                ],
+                "right_title": "How it impacts decisions",
+                "right": [
+                    "Choose best months and activities",
+                    "Design itineraries and photo trails",
+                    "Price tours around guided culture",
+                    "Bundle stays, transport, and tastings"
+                ]
+            },
+            "timeline": [],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Assess",
+                    "text": "Map climate windows, peak views, and heritage calendar."
+                },
+                {
+                    "step": "2",
+                    "label": "Design",
+                    "text": "Build itineraries, guides, and bundles around top drivers."
+                },
+                {
+                    "step": "3",
+                    "label": "Price",
+                    "text": "Set premium rates for signature viewpoints and heritage tours."
+                },
+                {
+                    "step": "4",
+                    "label": "Plan seasonality",
+                    "text": "Scale inventory and promotions for peak and lean periods."
+                }
+            ],
+            "takeaways": [
+                "Match experiences to demand drivers to improve bookings"
+            ],
+            "notes": "Explain how each demand driver translates into a tourism product choice: what activities to include, when to run them, and how to price them. Emphasize that seasonality is not random; it can be managed through scheduling, bundling, and targeted promotions. Ask students to suggest one itinerary that matches Darjeeling\u2019s best driver mix.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_f4ee2b0fb734.jpg",
+            "imagePrompt": "A professional infographic-style image showing Darjeeling tourism demand drivers: cool mountain climate with misty weather icons, scenic viewpoint overlooking Kanchenjunga with a viewpoint marker, heritage attraction icons like a colonial building and a small museum gate, and an experience package icon with a ticket/bundle. Include subtle tea garden patterns in the background, a clean layout, and ",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "iaj9lmn8",
+            "index": 6,
+            "layout": "full-image",
+            "title": "Darjelling Market Statistics Snapshot",
+            "subtitle": "Use metrics to assess demand and investment signals",
+            "paragraph": "This snapshot highlights student-friendly indicators for evaluating Darjelling\u2019s opportunity. Validate all figures with current government, tourism, and trade sources before using them in assignments.",
+            "bullets": [
+                "Track visitor growth by season and year-to-year changes",
+                "Use average spend proxies: ticketing, hotel rates, and spend surveys",
+                "Check export relevance: tea volumes and partner market destinations",
+                "Compare domestic versus international visitor mix",
+                "Look for demand concentration in peak districts and months"
+            ],
+            "stats": [
+                {
+                    "value": "Seasonal swing",
+                    "label": "Key demand pattern"
+                },
+                {
+                    "value": "Tea-led export signa",
+                    "label": "Market relevance proxy"
+                }
+            ],
+            "quote": {
+                "text": "Good decisions start with verified data, not outdated numbers.",
+                "author": "Student Research Tip"
+            },
+            "comparison": {
+                "left_title": "Tourism Demand Indicators",
+                "left": [
+                    "Visitor arrivals and occupancy trends",
+                    "Average duration of stay",
+                    "International share of arrivals"
+                ],
+                "right_title": "Trade and Export Proxies",
+                "right": [
+                    "Tea export volumes and values",
+                    "Top importing countries",
+                    "Price trends for key grades"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Step 1",
+                    "text": "Collect latest tourism and trade datasets"
+                },
+                {
+                    "label": "Step 2",
+                    "text": "Compute growth rates and averages"
+                },
+                {
+                    "label": "Step 3",
+                    "text": "Cross-check with 2+ independent sources"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Define metrics",
+                    "text": "Choose visitor, spend, and export relevance measures"
+                },
+                {
+                    "step": "2",
+                    "label": "Source data",
+                    "text": "Use current official statistics and reputable reports"
+                },
+                {
+                    "step": "3",
+                    "label": "Validate",
+                    "text": "Confirm definitions, time ranges, and data quality"
+                },
+                {
+                    "step": "4",
+                    "label": "Apply in your work",
+                    "text": "Explain what each indicator implies for opportunity"
+                }
+            ],
+            "takeaways": [
+                "Use tourism growth, spend, and export signals together"
+            ],
+            "notes": "Frame the slide as a checklist for how students can evaluate opportunity in Darjelling. Emphasize triangulation: tourism statistics alone are incomplete, and trade proxies help validate market relevance. Remind students to confirm definitions and update figures with the most recent sources before submitting work.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_3cf036273eb6.jpg",
+            "imagePrompt": "Full-bleed, realistic panoramic photograph of Darjelling hill landscape with tea gardens in the foreground, a vintage toy train winding through mist, and a subtle overlay of clean infographic-style icons representing visitors, spend, and exports; professional, educational, high-resolution, no readable text, no logos, balanced composition, natural color grading",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "gks3u960",
+            "index": 7,
+            "layout": "comparison",
+            "title": "Darjeeling\u2019s Competitive Differentiation Playbook",
+            "subtitle": "How to outposition tea regions\u2014learn the winning mix.",
+            "paragraph": "Darjeeling can differentiate through tea-led branding, heritage experiences, and eco-tourism. Compare these against how similar hill destinations package value, then adapt the parts that drive loyalty.",
+            "bullets": [
+                "Use tea origin stories as your primary brand differentiator",
+                "Turn heritage sites into guided, experience-led itineraries",
+                "Bundle eco-tourism with conservation and local livelihoods",
+                "Match competitors on basics, then lead on uniqueness",
+                "Design repeat visits with subscriptions and seasonal drops"
+            ],
+            "stats": [
+                {
+                    "value": "3",
+                    "label": "core strategies"
+                }
+            ],
+            "quote": {
+                "text": "Differentiation isn\u2019t louder marketing\u2014it\u2019s a clearer promise customers can feel.",
+                "author": "Travel Strategy Principle"
+            },
+            "comparison": {
+                "left_title": "Darjeeling Strategy Options",
+                "left": [
+                    "Tea-led branding with origin-grade storytelling",
+                    "Heritage experiences: plantations, culture, and craft",
+                    "Eco-tourism: trekking, biodiversity, and sustainability"
+                ],
+                "right_title": "Common Competitor Approaches",
+                "right": [
+                    "Generic hill views with limited local proof",
+                    "Sightseeing-heavy routes, fewer curated experiences",
+                    "Eco labels without measurable conservation tie-ins"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Now",
+                    "text": "Define Darjeeling\u2019s value proposition around tea and place."
+                },
+                {
+                    "label": "Next",
+                    "text": "Standardize heritage and eco-tour packages for consistency."
+                },
+                {
+                    "label": "Later",
+                    "text": "Build retention through seasonal offers and community access."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Clarify",
+                    "text": "Select one primary promise: tea heritage plus responsible travel."
+                },
+                {
+                    "step": "2",
+                    "label": "Design",
+                    "text": "Create 3 signature experiences with clear customer outcomes."
+                },
+                {
+                    "step": "3",
+                    "label": "Execute",
+                    "text": "Ensure operational excellence: guides, timing, and quality control."
+                },
+                {
+                    "step": "4",
+                    "label": "Retain",
+                    "text": "Use follow-ups, loyalty perks, and seasonal rebooking triggers."
+                }
+            ],
+            "takeaways": [
+                "Learn Darjeeling\u2019s unique value proposition, then operationalize it",
+                "Retention grows when experiences feel personal and repeatable"
+            ],
+            "notes": "Start by framing the comparison: Darjeeling wins by linking tea identity to heritage and eco-responsibility. Students should note that differentiation must translate into operational excellence\u2014consistent guides, well-timed routes, and dependable quality. Finally, retention is built through seasonal storytelling, repeatable packages, and community-linked value.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_7a4221aa0aca.jpg",
+            "imagePrompt": "Split-screen comparison illustration: left side shows Darjeeling tea estates with a steaming tea cup and heritage stop (plantation workers, terraced hills); right side shows generic hill tourism elements fading into the background. Clean professional style, vibrant but natural colors, educational infographic look, high resolution, no readable text.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "zr4wbudz",
+            "index": 8,
+            "layout": "features",
+            "title": "Sustainable Business in Darjeeling",
+            "subtitle": "Brand value grows when sustainability is operational, not just visible.",
+            "paragraph": "Darjeeling\u2019s tea estates and local businesses can strengthen long-term resilience through practical sustainability practices. These features protect resources, support communities, and build trust with customers worldwide.",
+            "bullets": [
+                "Responsible sourcing from certified, traceable tea growers",
+                "Waste management through composting and recycling programs",
+                "Water stewardship via efficient irrigation and runoff control",
+                "Community partnerships for skills, livelihoods, and local employment",
+                "Energy efficiency to cut emissions and reduce operating costs"
+            ],
+            "stats": [
+                {
+                    "value": "25+ years",
+                    "label": "resilience outlook with improved practices"
+                }
+            ],
+            "quote": {
+                "text": "Sustainability is the strongest supply chain: it protects people, water, and quality.",
+                "author": "Local sustainability principle"
+            },
+            "comparison": {
+                "left_title": "Conventional Approach",
+                "left": [
+                    "Limited traceability and ad-hoc sourcing",
+                    "Waste handled after problems occur",
+                    "Water use without monitoring"
+                ],
+                "right_title": "Sustainable Business Features",
+                "right": [
+                    "Traceability systems and farmer support",
+                    "Prevention-focused waste and composting plans",
+                    "Measured water use with watershed protection"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Now",
+                    "text": "Map sourcing, water use, and waste streams across operations."
+                },
+                {
+                    "label": "Next",
+                    "text": "Install efficient processes and partner with local groups."
+                },
+                {
+                    "label": "Later",
+                    "text": "Publish traceability and impact reports to build brand equity."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Assess",
+                    "text": "Identify key environmental and social risks in the value chain."
+                },
+                {
+                    "step": "2",
+                    "label": "Implement",
+                    "text": "Adopt sourcing, waste, water, and energy measures."
+                },
+                {
+                    "step": "3",
+                    "label": "Collaborate",
+                    "text": "Work with farmers, workers, and community organizations."
+                },
+                {
+                    "step": "4",
+                    "label": "Report",
+                    "text": "Track outcomes and communicate credible results to customers."
+                }
+            ],
+            "takeaways": [
+                "Operational sustainability builds trust, resilience, and stronger brand equity."
+            ],
+            "notes": "Explain how each feature addresses a real operational risk\u2014resource scarcity, pollution, and community vulnerability. Emphasize that sustainability also becomes a marketing advantage only when it is measurable and consistent over time. Encourage students to think of sustainability as a business system, not a one-time campaign.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_3027cbf78a29.jpg",
+            "imagePrompt": "A professional, student-friendly illustration of Darjeeling tea gardens on a misty hillside, with small business elements: a responsible tea supply chain map overlay, a composting and recycling bin near a tea processing shed, visible water channels with a monitoring gauge, and a community partnership scene with local workers and educators; bright natural colors, realistic style, no text, high deta",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "zemqmlw7",
+            "index": 9,
+            "layout": "problem-solution",
+            "title": "Darjelling: Problems and Fixes",
+            "subtitle": "Path from season shocks to stable quality",
+            "paragraph": "Darjelling\u2019s tea industry faces repeated challenges that affect yield, quality, and livelihoods. Practical solutions can smooth demand, standardize practices, and protect the environment.",
+            "bullets": [
+                "Seasonality causes demand dips and cash-flow stress",
+                "Infrastructure strain burdens transport during peak seasons",
+                "Quality varies across gardens and processing units",
+                "Environmental pressure increases pest and soil risks",
+                "Demand smoothing and better planning reduce volatility"
+            ],
+            "stats": [
+                {
+                    "value": "3\u20135",
+                    "label": "key pain points"
+                }
+            ],
+            "quote": {
+                "text": "Stability in production starts with consistency in process and planning.",
+                "author": "Darjelling Quality Initiative"
+            },
+            "comparison": {
+                "left_title": "Current challenges",
+                "left": [
+                    "Peak-time bottlenecks",
+                    "Inconsistent grades",
+                    "Higher environmental stress"
+                ],
+                "right_title": "Solution directions",
+                "right": [
+                    "Demand smoothing",
+                    "Process standardization",
+                    "Partnerships and data planning"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Now",
+                    "text": "Map bottlenecks, grades, and seasonal demand patterns"
+                },
+                {
+                    "label": "Next",
+                    "text": "Standardize processing and train teams across estates"
+                },
+                {
+                    "label": "Later",
+                    "text": "Build partnerships and invest in resilient infrastructure"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Identify",
+                    "text": "Track seasonal demand, logistics delays, and quality gaps"
+                },
+                {
+                    "step": "2",
+                    "label": "Standardize",
+                    "text": "Align plucking and processing parameters by grade"
+                },
+                {
+                    "step": "3",
+                    "label": "Smooth",
+                    "text": "Use forecasts and staggered schedules to balance output"
+                },
+                {
+                    "step": "4",
+                    "label": "Collaborate",
+                    "text": "Partner with transport, labs, and buyers for consistency"
+                },
+                {
+                    "step": "5",
+                    "label": "Decide with data",
+                    "text": "Monitor quality metrics and environmental indicators continuously"
+                }
+            ],
+            "takeaways": [
+                "Plan for seasons, standardize for quality, partner for resilience"
+            ],
+            "notes": "Explain that Darjelling faces both time-based shocks (seasonality) and operational gaps (infrastructure and quality variability). Emphasize solutions that students can remember: smooth demand, standardize processes, form partnerships, and use data-driven planning. Close by linking these actions to protecting workers and the landscape.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_602e1408e079.jpg",
+            "imagePrompt": "A professional split-scene infographic-style illustration: left side shows misty Darjelling tea gardens, a busy peak-season road with stacked tea crates, and varied tea leaf grades; right side shows a smoother supply chain with standardized processing steps, a cooperative partnership handshake, and a simple data dashboard with quality and environment indicators. Bright, realistic, educational tone",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "eimgmec3",
+            "index": 10,
+            "layout": "thank-you",
+            "title": "Darjeeling: Insights, Differentiation, Action",
+            "subtitle": "From value chains to sustainable growth",
+            "paragraph": "Darjeeling\u2019s success comes from designing offerings around demand drivers, not just products. Use value-chain thinking to spot where differentiation and sustainability create measurable value.",
+            "bullets": [
+                "Map the full value chain: farm to buyer to experience",
+                "Design around demand drivers: taste, origin story, trust, access",
+                "Differentiate via quality consistency and verified traceability",
+                "Integrate sustainability to protect long-term supply and reputation",
+                "Test ideas with small experiments and customer feedback"
+            ],
+            "stats": [
+                {
+                    "value": "4-Stage",
+                    "label": "value-chain lens"
+                }
+            ],
+            "quote": {
+                "text": "Consistency, traceability, and sustainability turn tea into trust.",
+                "author": "Business Strategy Lens"
+            },
+            "comparison": {
+                "left_title": "Product-first approach",
+                "left": [
+                    "Focus on growing and selling tea",
+                    "Limited differentiation beyond price",
+                    "Sustainability treated as a cost"
+                ],
+                "right_title": "Demand & value-chain approach",
+                "right": [
+                    "Start with buyer needs and buying occasions",
+                    "Differentiate with origin proof and quality signals",
+                    "Use sustainability to secure future supply"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Today",
+                    "text": "Choose a customer segment and demand driver"
+                },
+                {
+                    "label": "Next session",
+                    "text": "Draft your value-chain map and bottlenecks"
+                },
+                {
+                    "label": "Final",
+                    "text": "Propose a mini-initiative with KPIs and sustainability impact"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Identify",
+                    "text": "Select a Darjeeling buyer segment and their top need"
+                },
+                {
+                    "step": "2",
+                    "label": "Map",
+                    "text": "Trace value creation from growers to distribution channels"
+                },
+                {
+                    "step": "3",
+                    "label": "Differentiate",
+                    "text": "Add a proof point: traceability, packaging, or tasting experience"
+                },
+                {
+                    "step": "4",
+                    "label": "Sustain",
+                    "text": "Link the idea to soil health, water use, or worker wellbeing"
+                },
+                {
+                    "step": "5",
+                    "label": "Test",
+                    "text": "Run a small pilot and measure response against KPIs"
+                }
+            ],
+            "takeaways": [
+                "Value-chain mapping reveals where differentiation should live",
+                "Demand-driver design connects tea quality to buyer decisions",
+                "Sustainability builds resilience and brand credibility",
+                "Next-step pilots turn strategy into evidence"
+            ],
+            "notes": "Use this slide to close the session: summarize how value-chain thinking and demand drivers lead to defensible differentiation. Then challenge students to apply the framework to a case or mini proposal by mapping stakeholders, choosing one buyer need, and proposing one measurable sustainability-backed improvement. Encourage them to include a simple pilot plan so the proposal becomes testable.",
+            "image": "",
+            "imagePrompt": "A professional classroom-style illustration in a clean corporate infographic style: a flowing value-chain diagram connecting Darjeeling tea gardens, quality sorting, packaging, and global buyers; include small icon elements for traceability labels, sustainability (leaf/soil/water), and customer demand (shopping bag/ratings). Warm, natural colors inspired by tea and mountains. No text, no logos, hi",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        }
+    ],
+    "created_at": "2026-07-13T12:11:43+00:00",
+    "updated_at": "2026-07-13T12:11:43+00:00"
+}

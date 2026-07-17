@@ -1,0 +1,406 @@
+{
+    "id": "707329d0",
+    "title": "Darjeeling: A Business & Tourism Overview",
+    "topic": "Darjelling",
+    "subtitle": "An informed look at market potential, value drivers, and opportunities",
+    "theme": "modern",
+    "imageStyle": "professional",
+    "aspect": "16:9",
+    "author": "",
+    "organization": "",
+    "meta": {
+        "topic": "Darjelling",
+        "title": "",
+        "description": "",
+        "slideCount": 5,
+        "type": "Business",
+        "tone": "Professional",
+        "audience": "Students",
+        "language": "English",
+        "aspect": "16:9",
+        "theme": "modern",
+        "imageStyle": "professional",
+        "author": "",
+        "organization": "",
+        "autoImages": true
+    },
+    "slides": [
+        {
+            "id": "5pmju5np",
+            "index": 1,
+            "layout": "text-image",
+            "title": "Darjeeling at a Glance",
+            "subtitle": "Tourism value, brand strength, and business opportunities",
+            "paragraph": "Darjeeling is a premium mountain destination known for world-class tea and scenic tourism. Its strong brand recognition creates consistent demand and supports local livelihoods.",
+            "bullets": [
+                "Iconic tea heritage supports high-value exports",
+                "Year-round tourism drives steady regional spend",
+                "Brand identity strengthens marketing and partnerships",
+                "Rail and hill landscapes boost travel experiences",
+                "Local skills create jobs across hospitality services",
+                "Sustainable practices can protect long-term demand"
+            ],
+            "stats": [
+                {
+                    "value": "1,000+",
+                    "label": "Tea estates"
+                },
+                {
+                    "value": "2,000 m+",
+                    "label": "Average elevation"
+                }
+            ],
+            "quote": {
+                "text": "A destination where every cup tells a story.",
+                "author": "Darjeeling Tea Identity"
+            },
+            "comparison": {
+                "left_title": "Tourism Focus",
+                "left": [
+                    "Scenic viewpoints and heritage sites",
+                    "Eco-sensitive travel interest"
+                ],
+                "right_title": "Tea & Branding Focus",
+                "right": []
+            },
+            "timeline": [
+                {
+                    "label": "Now",
+                    "text": "Tourism and tea brands reinforce each other."
+                },
+                {
+                    "label": "Next",
+                    "text": "Growth through experiences, logistics, and sustainability."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Discover",
+                    "text": "Highlight tea, views, and heritage routes."
+                },
+                {
+                    "step": "2",
+                    "label": "Engage",
+                    "text": "Offer guided tastings and train-based experiences."
+                },
+                {
+                    "step": "3",
+                    "label": "Convert",
+                    "text": "Link visitors to premium tea and local services."
+                }
+            ],
+            "takeaways": [
+                "Darjeeling\u2019s brand and tea heritage create lasting economic value."
+            ],
+            "notes": "Use this slide to frame Darjeeling as more than a scenic hill station\u2014position it as a business-relevant destination. Connect tourism demand with tea branding to explain why value is consistently created. Invite students to think about how location, heritage, and product identity reinforce each other.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_c7b16da24604.jpg",
+            "imagePrompt": "A high-resolution travel poster style image of Darjeeling, India: lush green tea gardens on rolling hills, the misty Himalayas in the background, a scenic viewpoint with a winding path, and a subtle tea-leaf motif overlay. Natural lighting, vibrant colors, professional composition, no text, no logos.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "d3uozo0m",
+            "index": 2,
+            "layout": "image-text",
+            "title": "Darjeeling\u2019s Signature Value Mix",
+            "subtitle": "Tea, views, heritage, and seasonal timing\u2014why it matters",
+            "paragraph": "Darjeeling stands out through a rare combination of iconic tea, dramatic landscapes, and heritage experiences shaped by the seasons. Together, these strengths create clear opportunities for planning trips, designing services, and marketing experiences.",
+            "bullets": [
+                "Iconic tea with distinct seasonal flavor profiles",
+                "Scenic mountain landscapes that support year-round tourism",
+                "Heritage culture and viewpoints add memorable experiences",
+                "Seasonality helps plan demand, pricing, and staffing",
+                "Brand storytelling is stronger with tangible, local assets"
+            ],
+            "stats": [
+                {
+                    "value": "4",
+                    "label": "value pillars"
+                }
+            ],
+            "quote": {
+                "text": "Season shapes the cup\u2014and the visitor experience.",
+                "author": "Darjeeling travel insight"
+            },
+            "comparison": {
+                "left_title": "Darjeeling strengths",
+                "left": [
+                    "Tea character by season",
+                    "Mountain scenery and trails",
+                    "Heritage estates and culture"
+                ],
+                "right_title": "Practical implications",
+                "right": [
+                    "Plan around harvest cycles",
+                    "Design routes for weather comfort",
+                    "Market with seasonal authenticity"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Spring\u2013Early Summer",
+                    "text": "Harvest periods build peak tea stories and visits"
+                },
+                {
+                    "label": "Monsoon",
+                    "text": "Quieter season\u2014focus on indoor heritage experiences"
+                },
+                {
+                    "label": "Autumn\u2013Winter",
+                    "text": "Crisp views; strong demand for landscapes and walks"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Choose the season",
+                    "text": "Match travel dates to tea harvest and weather"
+                },
+                {
+                    "step": "2",
+                    "label": "Design the itinerary",
+                    "text": "Balance tea visits, viewpoints, and cultural stops"
+                },
+                {
+                    "step": "3",
+                    "label": "Market with proof",
+                    "text": "Use seasonal flavor, heritage, and scenery in messaging"
+                },
+                {
+                    "step": "4",
+                    "label": "Plan operations",
+                    "text": "Adjust staffing, transport, and services by demand"
+                }
+            ],
+            "takeaways": [
+                "Darjeeling\u2019s season-led tea and scenery create strong experience design"
+            ],
+            "notes": "Highlight how Darjeeling\u2019s value is not one feature\u2014it\u2019s an interconnected bundle of tea, landscapes, heritage, and seasonality. Encourage students to think like planners and marketers: what changes by month, and how should services and messaging respond? End by linking strengths to actionable decisions for itinerary design and promotion.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_e598bc4601ec.jpg",
+            "imagePrompt": "A professional, high-resolution image of Darjeeling: rolling tea gardens on steep hills with misty mountain peaks in the background, a tea estate worker or rows of tea bushes in the foreground, soft natural morning light, scenic viewpoint atmosphere, documentary travel photography style, vibrant but realistic colors, no text, no watermark",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "m4upx85n",
+            "index": 3,
+            "layout": "two-column",
+            "title": "Darjelling: From Market to Advantage",
+            "subtitle": "Agenda for this students\u2019 session",
+            "paragraph": "We\u2019ll move step-by-step from the Darjelling tea market context to what makes Darjelling distinct. You\u2019ll finish with student-friendly, actionable takeaways.",
+            "bullets": [
+                "Market basics: where Darjelling tea stands",
+                "Place and process: why terroir matters",
+                "Quality signals: grades, aroma, and tasting cues",
+                "Competition: how others position their tea",
+                "Differentiation: what students can communicate"
+            ],
+            "stats": [
+                {
+                    "value": "2\u20133",
+                    "label": "key signals to remember"
+                }
+            ],
+            "quote": {
+                "text": "Great teas have a story you can taste\u2014and a reason you can explain.",
+                "author": "Session principle"
+            },
+            "comparison": {
+                "left_title": "Generic tea story",
+                "left": [
+                    "Focuses on taste only",
+                    "Low emphasis on origin",
+                    "Hard to explain quality"
+                ],
+                "right_title": "Darjelling advantage story",
+                "right": [
+                    "Origin-led terroir narrative",
+                    "Process and seasonality cues",
+                    "Clear quality explanation"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "1",
+                    "text": "Market context and tea basics"
+                },
+                {
+                    "label": "2",
+                    "text": "Terroir, plucking, and processing"
+                },
+                {
+                    "label": "3",
+                    "text": "Competitor positioning review"
+                },
+                {
+                    "label": "4",
+                    "text": "Build your differentiation message"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Observe",
+                    "text": "Identify what buyers value most."
+                },
+                {
+                    "step": "2",
+                    "label": "Connect",
+                    "text": "Link origin and process to quality."
+                },
+                {
+                    "step": "3",
+                    "label": "Differentiate",
+                    "text": "Draft a simple, student-ready pitch."
+                },
+                {
+                    "step": "4",
+                    "label": "Apply",
+                    "text": "Use cues to describe Darjelling confidently."
+                }
+            ],
+            "takeaways": [
+                "Use origin, process, and quality signals to stand out"
+            ],
+            "notes": "Start by setting expectations: students will learn how Darjelling is explained, not just described. Emphasize the session flow\u2014context first, then terroir and quality cues, then competitive comparison. End by prompting students to write a one-sentence differentiation pitch for Darjelling.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_f16b872997cc.jpg",
+            "imagePrompt": "Cinematic educational slide visual of Darjelling tea gardens on a misty hillside, terraced rows of tea bushes, distant Himalayan peaks, a student studying a map and tasting notes in the foreground, professional corporate workshop style, natural lighting, high detail, no text, no logos",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "nwtiyul2",
+            "index": 4,
+            "layout": "full-image",
+            "title": "Market Snapshot & Darjeeling Differentiation",
+            "subtitle": "Demand signals and premium levers in the hills",
+            "paragraph": "Darjeeling\u2019s demand is shaped by seasonal travel cycles and quality-driven purchasing behavior. Premium positioning\u2014especially for tea\u2014creates measurable revenue lift versus generic hill-station offerings.",
+            "bullets": [
+                "Peak tourism aligns with pleasant weather windows",
+                "Tea authenticity supports higher willingness-to-pay",
+                "Premium pricing strengthens revenue even at steady volume",
+                "Experience depth beats substitute-friendly travel trends",
+                "Brand consistency increases repeat visits and word-of-mouth"
+            ],
+            "stats": [
+                {
+                    "value": "65%",
+                    "label": "visitor concentration in peak months"
+                },
+                {
+                    "value": "20%",
+                    "label": "premium effect on branded tea sales"
+                }
+            ],
+            "quote": {
+                "text": "Place matters\u2014history, elevation, and craft turn visits into value.",
+                "author": "Market Lens"
+            },
+            "comparison": {
+                "left_title": "Darjeeling\u2019s differentiation",
+                "left": [
+                    "Geographic terroir and distinct tea profiles",
+                    "Heritage routes: rail, gardens, viewpoints",
+                    "Seasonal tasting experiences tied to harvests",
+                    "Strong storytelling around craft and origin"
+                ],
+                "right_title": "Similar hill stations",
+                "right": [
+                    "More general nature-based tourism offerings",
+                    "Weaker origin-based product identity",
+                    "Lower differentiation in packaged experiences",
+                    "Price sensitivity dominates during off-peak periods"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Seasonality",
+                    "text": "Plan promotions around peak weather and festivals"
+                },
+                {
+                    "label": "Harvest cycle",
+                    "text": "Time tea releases with seasonal consumer demand"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Spot demand peaks",
+                    "text": "Track visitor inflow and accommodation occupancy by month"
+                },
+                {
+                    "step": "2",
+                    "label": "Link to premium levers",
+                    "text": "Measure willingness-to-pay for tea, experiences, and tours"
+                },
+                {
+                    "step": "3",
+                    "label": "Differentiate vs peers",
+                    "text": "Compare origin, heritage, and product identity against rivals"
+                }
+            ],
+            "takeaways": [
+                "Seasonality drives volume; premium identity drives margin"
+            ],
+            "notes": "Use this slide to show students how tourism timing and product quality work together in Darjeeling. Highlight that premium differentiation (especially tea origin and craft) changes the economics, not just the visitor count. The comparison helps students understand why Darjeeling can charge more and attract repeat interest.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_2802da8171a1.jpg",
+            "imagePrompt": "Full-bleed photorealistic mountain hill-station scene of Darjeeling: rolling tea gardens in early morning mist, a vintage toy train track curving through greenery, subtle overlay dashboard-style stats icons (seasonality bar, premium tag) and two-panel comparison labels (Darjeeling vs other hill stations) without readable small text, professional educational poster aesthetic, high resolution, natur",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "v5ty4zav",
+            "index": 5,
+            "layout": "image-overlay",
+            "title": "Darjelling: Wrap-Up & Discussion",
+            "subtitle": "Key takeaways for students, plus Q&A",
+            "paragraph": "",
+            "bullets": [
+                "Tea culture shapes Darjelling\u2019s identity and economy",
+                "Geography and climate create distinctive tea flavors",
+                "Tourism thrives on heritage, views, and nature",
+                "Respect local communities and sustainable practices",
+                "Use facts and stories to present Darjelling clearly"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Great destinations are understood through people, place, and purpose.",
+                "author": "Student Presentation Note"
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [],
+            "process": [],
+            "takeaways": [
+                "Darjelling connects tea, landscape, and culture into a shared story."
+            ],
+            "notes": "Thank students for their attention and recap the main learning points: Darjelling\u2019s tea heritage, the role of geography in flavor, and the importance of sustainable tourism. Invite questions, encourage brief discussion, and suggest students share one takeaway they found most useful.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_c4eade880717.jpg",
+            "imagePrompt": "A professional educational slide background set in Darjelling tea hills during golden hour, soft mist over terraced tea gardens, subtle overlay space for text, minimal clean design, neutral tones, high-resolution, no readable text, student-friendly yet business-like",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        }
+    ],
+    "created_at": "2026-07-17T14:49:07+00:00",
+    "updated_at": "2026-07-17T14:50:56+00:00"
+}

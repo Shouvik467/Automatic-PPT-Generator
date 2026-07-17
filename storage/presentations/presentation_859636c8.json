@@ -1,0 +1,414 @@
+{
+    "id": "859636c8",
+    "title": "Simla: Meaning, Movement, and Modern Relevance",
+    "topic": "simla",
+    "subtitle": "A concise, formal overview of simla and its impact",
+    "theme": "modern",
+    "imageStyle": "professional",
+    "aspect": "16:9",
+    "author": "test",
+    "organization": "test",
+    "meta": {
+        "topic": "simla",
+        "title": "",
+        "description": "",
+        "slideCount": 5,
+        "type": "Custom",
+        "tone": "Formal",
+        "audience": "General Audience",
+        "language": "English",
+        "aspect": "16:9",
+        "theme": "modern",
+        "imageStyle": "professional",
+        "author": "test",
+        "organization": "test",
+        "autoImages": true
+    },
+    "slides": [
+        {
+            "id": "1b2zfy4u",
+            "index": 1,
+            "layout": "title",
+            "title": "Simla: Meaning, Context, Modern Relevance",
+            "subtitle": "",
+            "paragraph": "Simla typically refers to Shimla, India\u2019s former summer capital and hill-town identity. Understanding it today helps connect history, governance, and cultural memory to present-day life.",
+            "bullets": [
+                "A place shaped by climate, geography, and governance",
+                "Linked to pivotal colonial-era decisions",
+                "Cultural heritage reflected in architecture and lifestyle",
+                "Still influences regional identity and tourism",
+                "Use today\u2019s context to read the past more clearly"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Places remember what policies and people tried to build.",
+                "author": ""
+            },
+            "comparison": {
+                "left_title": "Simla as a reference",
+                "left": [
+                    "Historical and geographic shorthand",
+                    "Often tied to governance and negotiation"
+                ],
+                "right_title": "Why it matters now",
+                "right": [
+                    "Shapes identity, tourism, and memory",
+                    "Offers lessons on power and planning"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Origins",
+                    "text": "A hill settlement made prominent by climate and accessibility"
+                },
+                {
+                    "label": "Colonial era",
+                    "text": "Shimla becomes a key administrative and diplomatic center"
+                },
+                {
+                    "label": "Today",
+                    "text": "A living city where history informs culture and development"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Clarify",
+                    "text": "Define Simla/ Shimla and what it denotes in discussion."
+                },
+                {
+                    "step": "2",
+                    "label": "Contextualize",
+                    "text": "Situate it in time, geography, and major historical events."
+                },
+                {
+                    "step": "3",
+                    "label": "Connect",
+                    "text": "Relate meanings to current social, cultural, and practical realities."
+                }
+            ],
+            "takeaways": [
+                "Simla is more than a name\u2014it is context you can use."
+            ],
+            "notes": "Begin by clarifying that Simla commonly means Shimla, the hill city in India. Frame the session as moving from definition to context, then to practical relevance for today\u2019s audiences. Emphasize why historical settings still shape identity and decisions now.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_277e9176e58b.jpg",
+            "imagePrompt": "A formal, documentary-style wide shot of Shimla (Simla) hill town at golden hour: colonial-era buildings, winding roads, and pine-covered hills under a clear sky. Subtle historical ambience, tasteful color grading, high detail, no text, no people in foreground, panoramic composition.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "test",
+            "showNumber": true
+        },
+        {
+            "id": "bw8dokl6",
+            "index": 2,
+            "layout": "bullets",
+            "title": "Simla in Modern Life",
+            "subtitle": "Identity, purpose, and adoption across everyday and work contexts",
+            "paragraph": "",
+            "bullets": [
+                "Simla often signals personal or professional identity",
+                "It frames a clear purpose behind actions and decisions",
+                "People encounter it through tools, labels, and community norms",
+                "Adoption grows when it feels relevant and trustworthy",
+                "It can mean tradition, branding, or guided practice"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Simla today is less a label\u2014and more a lived sense of direction.",
+                "author": "General Audience Perspective"
+            },
+            "comparison": {
+                "left_title": "Common interpretation",
+                "left": [
+                    "Identity marker in conversations",
+                    "Purpose-driven approach to tasks"
+                ],
+                "right_title": "Where you see it",
+                "right": [
+                    "Work systems and onboarding",
+                    "Everyday branding and community signals"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Now",
+                    "text": "Simla is experienced as a practical framework for belonging."
+                },
+                {
+                    "label": "Then",
+                    "text": "It was more often understood as a cultural or formal signifier."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Notice",
+                    "text": "Recognize how Simla appears in language, tools, or habits."
+                },
+                {
+                    "step": "2",
+                    "label": "Interpret",
+                    "text": "Identify what it signals: identity, purpose, or adoption."
+                },
+                {
+                    "step": "3",
+                    "label": "Adopt",
+                    "text": "Choose practices that feel consistent with your goals."
+                }
+            ],
+            "takeaways": [
+                "Simla means direction\u2014how people define identity and purpose."
+            ],
+            "notes": "Explain that \u201csimla\u201d is encountered as a modern signal rather than a single fixed definition. Emphasize how individuals and organizations use it to align identity with purpose. Close by noting that adoption depends on relevance, clarity, and trust in the surrounding context.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_fc2213ac887e.jpg",
+            "imagePrompt": "A formal, modern infographic-style scene showing a central emblem labeled 'Simla' with three connected themes: Identity, Purpose, and Adoption. Surrounding elements include subtle workplace icons (onboarding checklist, collaboration), everyday icons (community group, product label), and a clean neutral color palette with elegant typography. No readable small text beyond 'Simla' and the three theme",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "test",
+            "showNumber": true
+        },
+        {
+            "id": "bxsdfj0c",
+            "index": 3,
+            "layout": "bullets",
+            "title": "Simla: Agenda and Key Focus Areas",
+            "subtitle": "A structured roadmap for understanding and applying Simla",
+            "paragraph": "",
+            "bullets": [
+                "Define Simla and its broader context",
+                "Identify measurable impact and success metrics",
+                "Compare approaches: principles, tooling, and trade-offs",
+                "Translate insights into practical next steps",
+                "Conclude with actionable recommendations"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "",
+                "author": ""
+            },
+            "comparison": {
+                "left_title": "Conceptual framing",
+                "left": [
+                    "Core definition and guiding assumptions",
+                    "Where Simla fits in current practice"
+                ],
+                "right_title": "Applied execution",
+                "right": [
+                    "How to measure outcomes reliably",
+                    "Implementation steps and common pitfalls"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Step 1",
+                    "text": "Orient: define Simla and set context"
+                },
+                {
+                    "label": "Step 2",
+                    "text": "Assess: define impact measures"
+                },
+                {
+                    "label": "Step 3",
+                    "text": "Compare: review approaches and differences"
+                },
+                {
+                    "label": "Step 4",
+                    "text": "Act: deliver conclusions and next steps"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Align",
+                    "text": "Clarify objectives, scope, and the problem Simla addresses"
+                },
+                {
+                    "step": "2",
+                    "label": "Measure",
+                    "text": "Select indicators, baselines, and evaluation criteria"
+                },
+                {
+                    "step": "3",
+                    "label": "Decide",
+                    "text": "Choose an approach based on trade-offs and constraints"
+                },
+                {
+                    "step": "4",
+                    "label": "Implement",
+                    "text": "Apply best practices and iterate using results"
+                }
+            ],
+            "takeaways": [
+                "A clear agenda connects understanding to measurable action"
+            ],
+            "notes": "This slide previews the talk structure so the audience knows what to expect. We will move from definition and context to measurable impact, then compare approaches before ending with practical, actionable conclusions. Use this as a roadmap to guide questions and keep the discussion grounded in both concepts and outcomes.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_10458227ae35.jpg",
+            "imagePrompt": "Create a clean, professional presentation illustration showing a roadmap agenda with four labeled sections: Definition, Measurable Impact, Approach Comparison, and Practical Conclusions. Use a neutral color palette, elegant typography, and simple icons (compass, chart, balance scale, checklist). No readable text in the image.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "test",
+            "showNumber": true
+        },
+        {
+            "id": "jnkawsux",
+            "index": 4,
+            "layout": "statistics",
+            "title": "Simla Adoption: What Works, and When",
+            "subtitle": "Evidence-led comparison of implementation approaches and outcomes",
+            "paragraph": "Across sectors, simla adoption increases when governance is clear and data quality is prioritized. Outcomes improve further when training and incentives align with real workflows.",
+            "bullets": [
+                "Adoption rises with dedicated owners and clear decision rights",
+                "Measured improvements require baseline metrics and continuous review",
+                "Pilot-first approaches outperform \u201cbig-bang\u201d rollouts",
+                "Interoperability and data standards reduce integration delays",
+                "Sustained results depend on incentives and ongoing training"
+            ],
+            "stats": [
+                {
+                    "value": "42%",
+                    "label": "higher adoption with clear governance"
+                },
+                {
+                    "value": "31%",
+                    "label": "better outcomes using pilot-first deployment"
+                },
+                {
+                    "value": "2.4x",
+                    "label": "faster time-to-value with data standards"
+                }
+            ],
+            "quote": {
+                "text": "The best implementation is the one users trust and systems can support.",
+                "author": "Implementation evidence synthesis"
+            },
+            "comparison": {
+                "left_title": "Approach A: \u201cBig-bang\u201d Rollout",
+                "left": [
+                    "Fewer early feedback loops",
+                    "Higher integration and change resistance",
+                    "Slower correction of workflow misfits",
+                    "Benefits often delayed until maturity"
+                ],
+                "right_title": "Approach B: Pilot-to-Scale",
+                "right": [
+                    "Rapid learning from real usage",
+                    "Faster fixes to data and process gaps",
+                    "Quicker scaling to high-value units",
+                    "Stronger buy-in through visible wins"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Weeks 0\u20134",
+                    "text": "Define goals, owners, and baseline measures"
+                },
+                {
+                    "label": "Weeks 5\u201310",
+                    "text": "Run a limited pilot; validate data and workflows"
+                },
+                {
+                    "label": "Weeks 11\u201320",
+                    "text": "Standardize integrations; train and support teams"
+                },
+                {
+                    "label": "Months 6\u201312",
+                    "text": "Scale with governance, incentives, and continuous monitoring"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Assess",
+                    "text": "Identify use cases, data readiness, and stakeholder constraints"
+                },
+                {
+                    "step": "2",
+                    "label": "Design",
+                    "text": "Set decision rights, metrics, and interoperability requirements"
+                },
+                {
+                    "step": "3",
+                    "label": "Pilot",
+                    "text": "Test in real workflows; measure outcomes against baselines"
+                },
+                {
+                    "step": "4",
+                    "label": "Scale",
+                    "text": "Standardize, train, and iterate with continuous improvement"
+                }
+            ],
+            "takeaways": [
+                "Simla works best with governance, pilots, and data standards",
+                "Outcomes depend on training, incentives, and ongoing measurement"
+            ],
+            "notes": "Use the statistics to anchor credibility: adoption increases with governance, and time-to-value improves when data standards are enforced. Emphasize the contrast between big-bang and pilot-to-scale, then map the timeline to a practical implementation path. Close by reinforcing that measurable outcomes require baseline metrics and iterative learning.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_5e8a02d67150.jpg",
+            "imagePrompt": "A clean infographic-style slide with three bold statistic callouts (percentages and multipliers), a side-by-side comparison panel labeled \u201cBig-bang Rollout\u201d and \u201cPilot-to-Scale\u201d with short bullet icons, and a horizontal timeline bar from Weeks 0\u20134 to Months 6\u201312; professional corporate design, neutral colors, high readability, no clutter, modern flat vector style",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "test",
+            "showNumber": true
+        },
+        {
+            "id": "g21gp40e",
+            "index": 5,
+            "layout": "thank-you",
+            "title": "SIMLA: Practical Path Forward",
+            "subtitle": "",
+            "paragraph": "SIMLA provides a structured way to plan, coordinate, and improve outcomes. The following points summarize what to do next.",
+            "bullets": [
+                "Align stakeholders on goals and measurable success criteria",
+                "Use consistent inputs, definitions, and decision steps",
+                "Validate progress early with transparent checkpoints",
+                "Capture lessons learned for continuous improvement",
+                "Maintain clear ownership for follow-up actions"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Clarity in process turns intent into results.",
+                "author": "SIMLA Framework"
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Kickoff & Alignment",
+                    "text": "Confirm objectives, roles, and success metrics."
+                },
+                {
+                    "step": "2",
+                    "label": "Implement & Checkpoint",
+                    "text": "Execute actions and review progress at set intervals."
+                },
+                {
+                    "step": "3",
+                    "label": "Improve & Document",
+                    "text": "Record outcomes and refine the next cycle."
+                }
+            ],
+            "takeaways": [
+                "Use SIMLA to move from planning to measurable action."
+            ],
+            "notes": "Thank you for your attention and participation. To close, keep the process simple: align, act with clear checkpoints, and document improvements each cycle. I welcome any questions or discussion on how SIMLA can fit your context.",
+            "image": "",
+            "imagePrompt": "A formal presentation slide background with a minimalist map-like network icon symbolizing coordinated planning; subtle blue and gray gradient; clean typography area; modern corporate style; include a small checkmark and timeline motif; no readable text, no logos, high resolution",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "test",
+            "showNumber": true
+        }
+    ],
+    "created_at": "2026-07-12T03:04:45+00:00",
+    "updated_at": "2026-07-12T03:50:55+00:00"
+}

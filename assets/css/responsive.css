@@ -1,0 +1,81 @@
+/* ============================================================
+   Responsive rules
+   ============================================================ */
+
+@media (max-width: 1100px) {
+    .feature-grid { grid-template-columns: repeat(2, 1fr); }
+    .how-steps    { grid-template-columns: repeat(2, 1fr); }
+    .template-grid{ grid-template-columns: repeat(3, 1fr); }
+    .footer-inner { grid-template-columns: 1fr 1fr; }
+    .benefits-inner { grid-template-columns: 1fr; }
+    .editor-shell { grid-template-columns: 180px 1fr 260px; }
+}
+
+@media (max-width: 860px) {
+    .nav-links { display: none; }
+    .mobile-menu-btn { display: flex; }
+    .nav-links.open {
+        display: flex; flex-direction: column;
+        position: absolute; top: var(--nav-h); left: 0; right: 0;
+        background: var(--bg-elev); border-bottom: 1px solid var(--border);
+        padding: 12px; box-shadow: var(--shadow-md);
+        z-index: 90;
+    }
+    .nav-cta { display: none; }
+
+    .hero { padding: 60px 0 40px; }
+    .hero-stats { grid-template-columns: repeat(2, 1fr); }
+    .demo-cards { grid-template-columns: 1fr; }
+    .feature-grid { grid-template-columns: 1fr; }
+    .how-steps    { grid-template-columns: 1fr; }
+    .template-grid{ grid-template-columns: repeat(2, 1fr); }
+    .footer-inner { grid-template-columns: 1fr; }
+
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    .quick-topic { flex-direction: column; padding: 12px; }
+
+    .gen-panel { padding: 22px; }
+    .outline-slide { grid-template-columns: 40px 1fr; }
+    .outline-slide .os-actions {
+        grid-column: 1 / -1; justify-content: flex-end;
+    }
+
+    /* Editor becomes stacked */
+    .editor-shell {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr auto;
+        height: auto; min-height: calc(100vh - var(--nav-h));
+    }
+    .editor-sidebar {
+        max-height: 130px;
+        border-right: 0; border-bottom: 1px solid var(--border);
+    }
+    .slide-list {
+        flex-direction: row; overflow-x: auto; overflow-y: hidden;
+        padding: 10px;
+    }
+    .slide-thumb { flex: 0 0 160px; }
+    .editor-props {
+        border-left: 0; border-top: 1px solid var(--border);
+        max-height: 240px;
+    }
+    .editor-toolbar { flex-wrap: nowrap; overflow-x: auto; }
+    .deck-title-input { max-width: 200px; }
+
+    /* Slideshow */
+    .ss-slide-holder { width: 96vw; }
+    .ss-thumbs { display: none; }
+    .ss-notes-panel { right: 8px; left: 8px; width: auto; top: 70px; bottom: 70px; }
+    .ss-tb-left .btn { padding: 6px 10px; }
+    .ss-title { display: none; }
+}
+
+@media (max-width: 480px) {
+    .hero-stats { grid-template-columns: 1fr 1fr; }
+    .template-grid{ grid-template-columns: 1fr; }
+    .cta-final h2 { font-size: 1.5rem; }
+    .btn-xl { padding: 14px 20px; font-size: 1rem; }
+    .step-indicator .si-step { padding: 6px 10px; font-size: .78rem; }
+    .saved-actions { flex-wrap: wrap; }
+    .saved-actions input[type=text] { flex: 1; min-width: 140px; }
+}

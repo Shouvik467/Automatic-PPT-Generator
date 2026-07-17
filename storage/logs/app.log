@@ -1,0 +1,45 @@
+[2026-07-11 17:55:00] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 17:55:00] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 17:55:05] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 17:55:05] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 17:55:06] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 17:55:06] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 17:55:34] [WARN] Pollinations text attempt 1 failed: HTTP 502  error code: 502
+
+[2026-07-11 17:55:37] [WARN] Pollinations text attempt 2 failed: HTTP 502  error code: 502
+
+[2026-07-11 17:55:54] [WARN] Pollinations text attempt 3 failed: HTTP 502  error code: 502
+
+[2026-07-11 17:55:54] [ERROR] generate-outline: Pollinations text API failed: HTTP 502  error code: 502
+
+[2026-07-11 17:55:54] [ERROR] ERROR (500): Failed to generate outline. Pollinations text API failed: HTTP 502  error code: 502
+
+[2026-07-11 17:56:47] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 17:56:47] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 17:58:00] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 17:58:00] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 17:58:25] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 17:58:25] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 18:01:43] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 18:01:43] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-11 18:02:55] [ERROR] generate-outline: AI did not return a valid outline.
+[2026-07-11 18:02:55] [ERROR] ERROR (500): Failed to generate outline. AI did not return a valid outline.
+[2026-07-12 02:59:07] [WARN] Pollinations text attempt 1 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 02:59:09] [WARN] Pollinations text attempt 2 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 02:59:11] [WARN] Pollinations text attempt 3 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 02:59:11] [ERROR] ERROR (502): Could not reach Pollinations AI: Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:04] [WARN] Pollinations text attempt 1 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:06] [WARN] Pollinations text attempt 2 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:08] [WARN] Pollinations text attempt 3 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:08] [ERROR] generate-outline: Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:08] [ERROR] ERROR (500): Failed to generate outline. Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:13] [WARN] Pollinations text attempt 1 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:16] [WARN] Pollinations text attempt 2 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:18] [WARN] Pollinations text attempt 3 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:18] [ERROR] generate-outline: Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:00:18] [ERROR] ERROR (500): Failed to generate outline. Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:02:43] [WARN] Pollinations text attempt 1 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:02:45] [WARN] Pollinations text attempt 2 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:02:48] [WARN] Pollinations text attempt 3 failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:02:48] [ERROR] generate-outline: Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 
+[2026-07-12 03:02:48] [ERROR] ERROR (500): Failed to generate outline. Pollinations text API failed: HTTP 0 Could not resolve host: gen.pollinations.ai 

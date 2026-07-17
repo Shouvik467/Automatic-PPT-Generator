@@ -1,0 +1,776 @@
+{
+    "id": "fff310de",
+    "title": "Simla: Business Strategy for Student Growth",
+    "topic": "Simla",
+    "subtitle": "A modern overview of Simla\u2019s value, operations, and opportunities",
+    "theme": "modern",
+    "imageStyle": "professional",
+    "aspect": "16:9",
+    "author": "Shouvik Show",
+    "organization": "",
+    "meta": {
+        "topic": "Simla",
+        "title": "",
+        "description": "",
+        "slideCount": 10,
+        "type": "Business",
+        "tone": "Professional",
+        "audience": "Students",
+        "language": "English",
+        "aspect": "16:9",
+        "theme": "modern",
+        "imageStyle": "professional",
+        "author": "Shouvik Show",
+        "organization": "",
+        "autoImages": true
+    },
+    "slides": [
+        {
+            "id": "h0iv70kp",
+            "index": 1,
+            "layout": "title",
+            "title": "Simla: Turning Insight into Action",
+            "subtitle": "An overview for practical business thinking",
+            "paragraph": "Simla is a structured way to understand context, spot patterns, and make better decisions. In this session, we connect Simla to real-world business scenarios and measurable outcomes.",
+            "bullets": [
+                "Start with clear goals and relevant inputs",
+                "Identify signals, risks, and opportunities",
+                "Translate findings into prioritized next steps",
+                "Measure impact and refine as you go",
+                "Learn a repeatable approach for teams"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Better decisions come from better questions\u2014not just more data.",
+                "author": "Business Thinking Principle"
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [
+                {
+                    "label": "Today",
+                    "text": "Meet Simla and its core flow"
+                },
+                {
+                    "label": "Next",
+                    "text": "Apply it to common business problems"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Align",
+                    "text": "Define the decision, audience, and success criteria"
+                },
+                {
+                    "step": "2",
+                    "label": "Analyze",
+                    "text": "Assess context, constraints, and key drivers"
+                },
+                {
+                    "step": "3",
+                    "label": "Act",
+                    "text": "Choose actions, owners, and a measurement plan"
+                }
+            ],
+            "takeaways": [
+                "You\u2019ll learn a repeatable framework for smarter decisions"
+            ],
+            "notes": "Welcome students and set expectations for the session. Explain that Simla will be used as a practical framework\u2014not just theory\u2014so they can connect insights to action. Preview that later parts will include examples and decision-making practice tied to business outcomes.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_03b4de7a01bf.jpg",
+            "imagePrompt": "Create a clean, professional education slide background showing a futuristic dashboard metaphor: a central compass labeled 'Simla' with four surrounding icons (goal, insights, actions, measurement). Use a modern blue and white palette, subtle circuit lines, and minimal flat vector style. Include faint icons representing students and teamwork in the corners. No readable small text except the single",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "yksb16wk",
+            "index": 2,
+            "layout": "bullets",
+            "title": "What Simla Is\u2014Simple and Student-Ready",
+            "subtitle": "A business lens on goals, customers, and value",
+            "paragraph": "Simla is a platform that helps people plan, track, and improve learning and outcomes. It focuses on turning goals into action\u2014so progress feels clear and measurable.",
+            "bullets": [
+                "Serves students who want structure and momentum",
+                "Supports goal-setting, tracking, and practical next steps",
+                "Makes progress visible through simple reporting",
+                "Adds value by reducing guesswork and boosting consistency",
+                "Guides decisions with insights from real activity"
+            ],
+            "stats": [
+                {
+                    "value": "1",
+                    "label": "clear purpose"
+                }
+            ],
+            "quote": {
+                "text": "Clarity turns effort into results.",
+                "author": "Simla"
+            },
+            "comparison": {
+                "left_title": "Traditional studying",
+                "left": [
+                    "Plan mentally, track inconsistently",
+                    "Hard to spot what\u2019s working",
+                    "Progress can feel random"
+                ],
+                "right_title": "Simla approach",
+                "right": [
+                    "Set goals, track regularly",
+                    "See patterns and improvements",
+                    "Move with confidence"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Start",
+                    "text": "Define goals and choose what matters"
+                },
+                {
+                    "label": "Build",
+                    "text": "Track progress and adjust your plan"
+                },
+                {
+                    "label": "Improve",
+                    "text": "Use insights to refine next steps"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Set a goal",
+                    "text": "Choose outcomes you want to achieve"
+                },
+                {
+                    "step": "2",
+                    "label": "Track activity",
+                    "text": "Log progress in a simple way"
+                },
+                {
+                    "step": "3",
+                    "label": "Act on insights",
+                    "text": "Adjust actions based on what works"
+                }
+            ],
+            "takeaways": [
+                "Simla helps students turn goals into measurable progress"
+            ],
+            "notes": "Define Simla in plain terms: it\u2019s about planning, tracking, and improving learning outcomes. Emphasize who it serves\u2014students\u2014and explain why it matters: it reduces uncertainty and makes progress easier to manage. Close by connecting the features to value: clearer decisions and more consistent effort.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_9281faae2a1e.jpg",
+            "imagePrompt": "A clean modern infographic-style image showing a student at a laptop with a simple dashboard overlay: goal checklist, progress bars, and a small insights panel. Bright, professional colors (blue/white), minimal icons, uncluttered layout, student-friendly visual style, no readable text, high resolution.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "6saaelcb",
+            "index": 3,
+            "layout": "bullets",
+            "title": "Simla: Today\u2019s Guided Tour",
+            "subtitle": "What you\u2019ll learn and why it matters",
+            "paragraph": "",
+            "bullets": [
+                "Quick overview of Simla\u2019s rise and significance",
+                "Key landmarks and what they reveal",
+                "Historical context: politics, society, and development",
+                "Culture in Simla: traditions, lifestyle, and heritage",
+                "Student recap: connect facts to big themes"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "",
+                "author": ""
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [
+                {
+                    "label": "Part 1",
+                    "text": "Origins and historical turning points"
+                },
+                {
+                    "label": "Part 2",
+                    "text": "Landmarks and daily life in Simla"
+                },
+                {
+                    "label": "Part 3",
+                    "text": "Culture, legacy, and your key takeaways"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Set the context",
+                    "text": "Place Simla in its historical timeline."
+                },
+                {
+                    "step": "2",
+                    "label": "Explore evidence",
+                    "text": "Use landmarks and stories to understand change."
+                },
+                {
+                    "step": "3",
+                    "label": "Connect to themes",
+                    "text": "Link history and culture to real insights."
+                }
+            ],
+            "takeaways": [
+                "You\u2019ll understand Simla through history, places, and culture"
+            ],
+            "notes": "Welcome students to today\u2019s session on Simla. Explain that the flow will move from origins to landmarks, then to culture and legacy. Encourage them to listen for connections between what happened and what we see today.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_0505a066d45f.jpg",
+            "imagePrompt": "A professional, student-friendly illustration of Simla\u2019s scenic hillside with colonial-era architecture blending into local mountain culture, subtle timeline icons in the sky, warm daylight, clean infographic style, no readable text, high-resolution",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "muirmxb7",
+            "index": 4,
+            "layout": "image-text",
+            "title": "Simla\u2019s Core Value, Student Impact",
+            "subtitle": "From features to real outcomes you can feel",
+            "paragraph": "Simla turns your needs into fast, reliable results. It helps you learn and get work done with less friction and clearer progress.",
+            "bullets": [
+                "Personalized support that matches your goals",
+                "Faster decisions with clear, actionable insights",
+                "Better outcomes through consistent, smart workflows",
+                "Reliable performance you can trust daily",
+                "Less effort spent chasing answers"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "When tools remove friction, students have more time to succeed.",
+                "author": "Simla Customer Insight"
+            },
+            "comparison": {
+                "left_title": "Before Simla",
+                "left": [
+                    "More manual steps",
+                    "Slower answers",
+                    "Unclear next actions"
+                ],
+                "right_title": "With Simla",
+                "right": [
+                    "Streamlined steps",
+                    "Quicker guidance",
+                    "Clear priorities"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Start",
+                    "text": "Set your goal and get matched support."
+                },
+                {
+                    "label": "Build",
+                    "text": "Use guided steps and real-time insights."
+                },
+                {
+                    "label": "Deliver",
+                    "text": "Reach outcomes with less rework."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Tell Simla your goal",
+                    "text": "Share what you need to achieve and when."
+                },
+                {
+                    "step": "2",
+                    "label": "Get the right workflow",
+                    "text": "Simla organizes steps and information for you."
+                },
+                {
+                    "step": "3",
+                    "label": "Act with confidence",
+                    "text": "Use insights to move forward faster and smarter."
+                }
+            ],
+            "takeaways": [
+                "Simla reduces effort and increases clarity."
+            ],
+            "notes": "Explain that Simla\u2019s core value is the link between capabilities and student outcomes. Walk through how the process turns a goal into guided steps and better decisions. Emphasize speed, reliability, and less rework as the real-world benefits.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_59958bde8423.jpg",
+            "imagePrompt": "A clean, modern illustration split into two halves showing 'Before' and 'After' for students: left side chaotic scattered notes and time pressure, right side organized planner with clear checkmarks, warm lighting, professional corporate style, minimal text, icons representing clarity, speed, and support, high-resolution, flat vector + subtle depth",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "2tviq2b2",
+            "index": 5,
+            "layout": "text-image",
+            "title": "Simla Operating Model at a Glance",
+            "subtitle": "From inputs to delivery\u2014roles, processes, and quality gates",
+            "paragraph": "Simla turns customer needs into outcomes through a clear end-to-end operating model. Each stage defines ownership, key activities, and quality checks.",
+            "bullets": [
+                "Inputs: capture demand, context, and constraints",
+                "Plan: align teams on scope, timeline, and success metrics",
+                "Deliver: execute work with defined roles and handoffs",
+                "Assure quality: review, test, and validate at each stage",
+                "Improve: learn from results and update the next cycle"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Quality is built in at every step\u2014not added at the end.",
+                "author": "Simla Operating Principles"
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Intake & Requirements",
+                    "text": "Capture needs, stakeholders, and constraints to define the target."
+                },
+                {
+                    "step": "2",
+                    "label": "Planning & Alignment",
+                    "text": "Set scope, roles, milestones, and measurable outcomes."
+                },
+                {
+                    "step": "3",
+                    "label": "Execution & Handoffs",
+                    "text": "Deliver work in controlled increments with clear responsibilities."
+                },
+                {
+                    "step": "4",
+                    "label": "Quality Assurance",
+                    "text": "Review, test, and validate against standards before release."
+                },
+                {
+                    "step": "5",
+                    "label": "Feedback & Continuous Improvement",
+                    "text": "Use results to refine methods, reduce risk, and improve delivery."
+                }
+            ],
+            "takeaways": [
+                "A simple flow connects planning, delivery, and quality.",
+                "Defined roles and checkpoints reduce rework."
+            ],
+            "notes": "Walk students through the model from intake to improvement, emphasizing how each stage has a purpose. Highlight that roles and quality gates prevent delays and rework. End by connecting the process to real outcomes: predictable delivery and reliable quality.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_e9df9b0b1de8.jpg",
+            "imagePrompt": "Create a clean infographic for students titled 'Operating Model at a Glance' showing a left-to-right flow: Intake & Requirements, Planning & Alignment, Execution & Handoffs, Quality Assurance, Feedback & Continuous Improvement. Use simple icons for each stage (clipboard, calendar/people, gears/blocks, shield/checkmark, lightbulb/loop). Include three small labels near the middle for roles, key proc",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "8p1rqicz",
+            "index": 6,
+            "layout": "statistics",
+            "title": "Simla Market Growth Snapshot",
+            "subtitle": "Example metrics to interpret performance and momentum",
+            "paragraph": "",
+            "bullets": [
+                "Revenue up as demand broadens across segments",
+                "Customer base growing faster than churn declines",
+                "Higher retention improves lifetime value",
+                "Operating efficiency offsets price pressure",
+                "Market share gains suggest stronger positioning"
+            ],
+            "stats": [
+                {
+                    "value": "18%",
+                    "label": "Revenue growth YoY"
+                },
+                {
+                    "value": "6.2%",
+                    "label": "Net customer churn"
+                },
+                {
+                    "value": "14%",
+                    "label": "Active customer growth"
+                },
+                {
+                    "value": "32%",
+                    "label": "Gross margin lift"
+                },
+                {
+                    "value": "9%",
+                    "label": "Market share increase"
+                }
+            ],
+            "quote": {
+                "text": "Growth is strongest when retention and margins move together.",
+                "author": "Business Metrics Principle"
+            },
+            "comparison": {
+                "left_title": "This Quarter",
+                "left": [
+                    "Revenue +5% QoQ",
+                    "Churn 6.2%",
+                    "Margin +2.0 pts"
+                ],
+                "right_title": "Last Quarter",
+                "right": [
+                    "Revenue +2% QoQ",
+                    "Churn 7.0%",
+                    "Margin +1.4 pts"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Q1",
+                    "text": "Baseline performance; churn trending down"
+                },
+                {
+                    "label": "Q2",
+                    "text": "Revenue accelerates; retention improves"
+                },
+                {
+                    "label": "Q3",
+                    "text": "Market share gain becomes visible"
+                },
+                {
+                    "label": "Q4",
+                    "text": "Efficiency lifts margins; growth stabilizes"
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Define KPIs",
+                    "text": "Choose revenue, churn, margin, and share."
+                },
+                {
+                    "step": "2",
+                    "label": "Validate Trends",
+                    "text": "Compare quarter-over-quarter and year-over-year."
+                },
+                {
+                    "step": "3",
+                    "label": "Interpret Drivers",
+                    "text": "Link improvements to acquisition, retention, efficiency."
+                },
+                {
+                    "step": "4",
+                    "label": "Act on Insights",
+                    "text": "Prioritize levers with strongest impact."
+                }
+            ],
+            "takeaways": [
+                "Simla shows balanced growth: demand plus retention.",
+                "Margin lift signals better efficiency and product fit."
+            ],
+            "notes": "Use the stats to guide interpretation: revenue growth indicates demand, while churn reflects retention quality. Then connect margin lift to operational improvements and market share gains to stronger competitiveness. Encourage students to ask which KPI matters most for different business goals.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_2a155432156c.jpg",
+            "imagePrompt": "Create a clean educational infographic slide set in a corporate style. Include four simple chart widgets: (1) a bar chart for Revenue Growth YoY showing 18%, (2) a line or gauge for Net churn at 6.2% trending downward, (3) a bar chart for Active customer growth at 14%, and (4) a mini dashboard comparing This Quarter vs Last Quarter for Market share increase 9% and Gross margin lift 32%. Add subtle",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "34mj27jp",
+            "index": 7,
+            "layout": "comparison",
+            "title": "Simla vs. Common Alternatives",
+            "subtitle": "Choose the best option by comparing core trade-offs.",
+            "paragraph": "",
+            "bullets": [
+                "Cost: Simla balances affordability with value",
+                "Usability: Simla is faster to learn and use",
+                "Scalability: Simla supports growth without major rework",
+                "Support: Simla offers clearer onboarding and guidance",
+                "Flexibility: Alternatives may excel in niche custom needs"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "Good tools reduce friction, not just workload.",
+                "author": "Unknown"
+            },
+            "comparison": {
+                "left_title": "Simla",
+                "left": [
+                    "Lower setup overhead for new users",
+                    "Consistent workflows across projects",
+                    "Scales smoothly for larger cohorts"
+                ],
+                "right_title": "Typical Alternatives",
+                "right": [
+                    "Higher learning curve for first-time users",
+                    "Costs can rise quickly with increased usage",
+                    "Scalability may require extra configuration"
+                ]
+            },
+            "timeline": [],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Define your goal",
+                    "text": "Clarify the task, users, and expected growth."
+                },
+                {
+                    "step": "2",
+                    "label": "Compare criteria",
+                    "text": "Match cost, usability, and scalability to your constraints."
+                },
+                {
+                    "step": "3",
+                    "label": "Run a quick test",
+                    "text": "Try a small pilot to validate speed and outcomes."
+                }
+            ],
+            "takeaways": [
+                "Pick the tool that best matches your constraints and scale."
+            ],
+            "notes": "Explain that students should evaluate tools on practical criteria, not hype. Highlight how Simla typically wins on usability and smoother scaling, while alternatives may fit specialized cases. Encourage a short pilot test to confirm real-world fit before committing.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_5f85cec78bd4.jpg",
+            "imagePrompt": "Clean, professional comparison slide illustration: two-column layout. Left column labeled 'Simla' with three checkmarks next to short icons (cost tag, simple interface, upward growth arrow). Right column labeled 'Typical Alternatives' with three warning or comparison icons (rising cost chart, learning curve spiral, configuration gears). Neutral educational color palette (blue and gray), minimal te",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "2f6fcbe5",
+            "index": 8,
+            "layout": "features",
+            "title": "Key Features That Drive Results",
+            "subtitle": "How Simla turns clarity into measurable business gains",
+            "paragraph": "Simla\u2019s capabilities are designed to reduce friction and improve outcomes across the customer journey. Each feature directly supports faster decisions, better engagement, and stronger performance.",
+            "bullets": [
+                "AI-guided workflows for consistent, faster execution",
+                "Smart insights that prioritize what matters most",
+                "Automation that cuts manual work and errors",
+                "Personalized customer experiences at scale",
+                "Reliable reporting for clear, trackable impact"
+            ],
+            "stats": [
+                {
+                    "value": "30%",
+                    "label": "faster turnaround"
+                },
+                {
+                    "value": "20%",
+                    "label": "higher engagement"
+                }
+            ],
+            "quote": {
+                "text": "Great outcomes come from great workflows and better decisions.",
+                "author": "Simla Team"
+            },
+            "comparison": {
+                "left_title": "Before Simla",
+                "left": [
+                    "Manual steps slow progress",
+                    "Data isn\u2019t easily actionable",
+                    "Inconsistent customer follow-ups"
+                ],
+                "right_title": "With Simla",
+                "right": [
+                    "Guided workflows improve speed",
+                    "Insights drive prioritization",
+                    "Personalization scales consistently"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Now",
+                    "text": "Set up workflows and connect key data sources."
+                },
+                {
+                    "label": "Next",
+                    "text": "Use insights to prioritize actions and automate tasks."
+                },
+                {
+                    "label": "Then",
+                    "text": "Track results with reporting and optimize continuously."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Connect",
+                    "text": "Bring in customer, operational, and performance data."
+                },
+                {
+                    "step": "2",
+                    "label": "Configure",
+                    "text": "Define rules, workflows, and personalization settings."
+                },
+                {
+                    "step": "3",
+                    "label": "Activate",
+                    "text": "Run automation and surface insights for decisions."
+                },
+                {
+                    "step": "4",
+                    "label": "Measure",
+                    "text": "Review reporting to improve outcomes over time."
+                }
+            ],
+            "takeaways": [
+                "Simla features translate directly into measurable business results"
+            ],
+            "notes": "Explain how each feature supports a specific business outcome students can relate to, like speed, accuracy, or customer experience. Emphasize that the goal is not just \u201cmore data,\u201d but better actions driven by insights and automation. End by connecting features to a simple workflow: connect, configure, activate, measure.",
+            "image": "http://localhost/ai-ppt-generator/storage/generated-images/img_79a878eee727.jpg",
+            "imagePrompt": "A professional, modern infographic-style slide visual showing five interconnected feature icons (AI workflow, smart insights, automation, personalization, reporting) converging toward a single upward arrow labeled \u201cResults.\u201d Use a clean blue and white color palette, subtle gradient background, minimal text, student-friendly clarity, flat vector style, high contrast, 16:9 widescreen.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "xxfaud6f",
+            "index": 9,
+            "layout": "takeaways",
+            "title": "Simla: Business Takeaways Checklist",
+            "subtitle": "Turn learning into measurable decisions",
+            "paragraph": "Use Simla as a framework to evaluate options, compare tradeoffs, and decide with clarity. Focus on outcomes, not buzzwords.",
+            "bullets": [
+                "Ask: what value will improve, for whom, and when?",
+                "Compare options using cost, time, and risk.",
+                "Set metrics before you act\u2014then track them.",
+                "Choose the simplest plan that meets requirements.",
+                "Review results and iterate using real data."
+            ],
+            "stats": [
+                {
+                    "value": "3",
+                    "label": "core metrics to track"
+                }
+            ],
+            "quote": {
+                "text": "Decisions get easier when success is measured upfront.",
+                "author": "Business Rule of Thumb"
+            },
+            "comparison": {
+                "left_title": "Guessing",
+                "left": [
+                    "No clear metric",
+                    "Benefits described vaguely",
+                    "Costs estimated late"
+                ],
+                "right_title": "Measuring",
+                "right": [
+                    "Metrics defined first",
+                    "Benefits tied to targets",
+                    "Costs planned from day one"
+                ]
+            },
+            "timeline": [
+                {
+                    "label": "Start",
+                    "text": "Define value, metric, and baseline."
+                },
+                {
+                    "label": "Plan",
+                    "text": "Estimate cost, timeline, and key risks."
+                },
+                {
+                    "label": "Act",
+                    "text": "Choose the best option and execute."
+                },
+                {
+                    "label": "Review",
+                    "text": "Measure results, learn, and adjust."
+                }
+            ],
+            "process": [
+                {
+                    "step": "1",
+                    "label": "Define value",
+                    "text": "Write the user impact and business goal."
+                },
+                {
+                    "step": "2",
+                    "label": "Set metrics",
+                    "text": "Pick 2\u20133 measurable indicators and targets."
+                },
+                {
+                    "step": "3",
+                    "label": "Compare options",
+                    "text": "Score tradeoffs across cost, time, and risk."
+                },
+                {
+                    "step": "4",
+                    "label": "Decide and review",
+                    "text": "Implement, measure, and iterate with evidence."
+                }
+            ],
+            "takeaways": [
+                "Evaluate value with clear metrics and timelines.",
+                "Compare options by cost, time, and risk\u2014not intuition.",
+                "Make decisions measurable, then improve through iteration."
+            ],
+            "notes": "When students apply these takeaways, they shift from opinions to evidence. Start by defining value and metrics, then compare options using consistent criteria. Finally, review outcomes and refine the approach based on what the data says.",
+            "image": "",
+            "imagePrompt": "Create a clean educational infographic for students titled 'Business Takeaways Checklist' with a simple checklist layout. Include three metric icons, a cost-time-risk comparison table, and a short 4-step timeline (Start, Plan, Act, Review). Use a modern professional color palette (navy, teal, white), minimal text, and clear typography. No logos or brands.",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        },
+        {
+            "id": "g1xdm5ew",
+            "index": 10,
+            "layout": "thank-you",
+            "title": "Thank You, See You in Simla",
+            "subtitle": "Closing thoughts on Simla for students",
+            "paragraph": "Thank you for your attention and engagement throughout this session on Simla. I hope you leave with clearer ideas and fresh curiosity to explore further.",
+            "bullets": [
+                "Simla blends history, culture, and learning",
+                "Notice details: architecture, landscapes, and stories",
+                "Ask questions and keep researching",
+                "Share what you learned with classmates"
+            ],
+            "stats": [],
+            "quote": {
+                "text": "The best journeys begin with curiosity.",
+                "author": "Unknown"
+            },
+            "comparison": {
+                "left_title": "",
+                "left": [],
+                "right_title": "",
+                "right": []
+            },
+            "timeline": [],
+            "process": [],
+            "takeaways": [
+                "Keep exploring Simla\u2019s stories with an inquisitive mindset."
+            ],
+            "notes": "Thank the audience warmly and invite a brief final discussion. Encourage students to share one takeaway or question they still have about Simla. Close by reminding them that learning continues beyond the presentation.",
+            "image": "",
+            "imagePrompt": "A warm, professional presentation slide background with a scenic view of Simla\u2019s hillside, colonial-era buildings, and lush greenery. Subtle overlay of a thank-you message in clean typography, soft natural lighting, vibrant but tasteful colors, student-friendly academic mood, no clutter, high resolution, 16:9 aspect ratio",
+            "transition": "fade",
+            "duration": 6,
+            "background": "",
+            "footer": "",
+            "showNumber": true
+        }
+    ],
+    "created_at": "2026-07-13T12:04:53+00:00",
+    "updated_at": "2026-07-13T12:05:52+00:00"
+}
