@@ -5,9 +5,6 @@ Create stunning AI-generated presentations from any topic in seconds — powered
 Built with **HTML, CSS, vanilla JavaScript, and Core PHP** only.
 No database. No framework. No build step. Works on XAMPP, WAMP, localhost, and any shared PHP host (including Hostinger).
 
-![screenshot](assets/images/hero-preview.png)
-
----
 
 ## ✨ Features
 
